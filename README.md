@@ -1,0 +1,2 @@
+# DNN
+Deep NN exercises
